@@ -1,0 +1,13 @@
+*.janeapp.com
+unifiedpractice.com
+acusimple.com
+jasminepm.com
+schedulicity.com (only acupuncture business)
+genbook.com (only acupuncture business)
+as.me (only acupuncture business)
+ehr.charmtracker.com (only acupuncture business)
+mindbodyonline.com (only acupuncture business)
+
+booknow.appointment-plus.com
+square.site
+live.vcita.com
